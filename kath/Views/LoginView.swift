@@ -39,7 +39,7 @@ struct LoginView: View {
                     }
                 }.disabled(!isFormValid)
                     .buttonStyle(.borderless)
-                Button("Register"){
+                Button("SignUp"){
                     
                 }.buttonStyle(.borderless)
                 Spacer()
